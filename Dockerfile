@@ -8,5 +8,4 @@ RUN apt-get update && \
 # Install gtm
 RUN wget https://github.com/git-time-metric/gtm/releases/download/v1.2.11/gtm.v1.2.11.linux.tar.gz && \
     tar -zxvf gtm.v1.2.11.linux.tar.gz -C /usr/bin && \
-    ls && \
-    gtm
+    gtm --version
