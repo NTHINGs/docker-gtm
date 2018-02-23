@@ -1,8 +1,7 @@
-
-    <div align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker Logo" />
-        <img src="https://cloud.githubusercontent.com/assets/630550/19619834/43c460dc-9835-11e6-8652-1c8fff91cf02.png" alt="GTM Logo" height="115" width="275" />
-    </div>
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker Logo" />
+    <img src="https://cloud.githubusercontent.com/assets/630550/19619834/43c460dc-9835-11e6-8652-1c8fff91cf02.png" alt="GTM Logo" height="115" width="275" />
+</div>
 
 ### GTM (Git Time Metric) Docker Image
 For more information about GTM please see the [GTM GitHub Proyect](https://github.com/git-time-metric/gtm).
