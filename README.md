@@ -10,6 +10,12 @@ For more information about GTM please see the [GTM GitHub Proyect](https://githu
 This project contains an Ubuntu base image with GIT and GTM.
 
 ## Usage
+https://hub.docker.com/r/nthingsm/gtm/
+
+```sh
+docker pull nthingsm/gtm
+```
+
 I use it in my GitLab Pipeline for automating reports and having them accessible by the team.
 
 For example with this stage in the Pipeline my team can view the report of hours expend in the month coding.
